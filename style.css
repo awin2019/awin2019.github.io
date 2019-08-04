@@ -86,8 +86,12 @@ p{
 .row {
     padding-bottom: 20px
 }
-Table */
-  .table{
+.dataframe {
     font-size: 15px; 
     border-top-color: #f6f5f3; 
+}
+
+th, tr {
+    text-align: center;
+    padding: 10px;
 }
